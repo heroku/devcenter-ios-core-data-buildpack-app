@@ -1,11 +1,3 @@
-//
-//  AppDelegate.h
-//  ToDo
-//
-//  Created by Mattt Thompson on 2012/11/13.
-//  Copyright (c) 2012年 Heroku. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
 
 #import "ToDoIncrementalStore.h"
